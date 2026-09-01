@@ -1,0 +1,4 @@
+name = "ayhanvozd-pages"
+
+[site]
+bucket = "./public"
