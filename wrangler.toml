@@ -1,3 +1,4 @@
 name = "ayhanvozd-worker"
 main = "Worker.js"
 compatibility_date = "2024-01-01"
+format = "service-workers"
